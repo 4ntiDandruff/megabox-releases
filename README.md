@@ -72,6 +72,17 @@ chmod +x Megabox-2.1.0-x86_64.AppImage
 
 ---
 
-## Lisensi
+---
+
+## Penafian Merek Dagang (Trademark Disclaimer)
+Seluruh nama produk, logo, merek dagang, dan merek terdaftar yang ditampilkan di dalam aplikasi dan repositori ini (termasuk WhatsApp, Telegram, Discord, Google, Slack, ChatGPT, YouTube, dan lainnya) adalah hak milik dari pemiliknya masing-masing. Penggunaan seluruh nama perusahaan, produk, dan logo di dalam perangkat lunak ini murni ditujukan untuk tujuan identifikasi layanan yang kompatibel (*nominative fair use*). Penggunaan merek-merek tersebut tidak menyiratkan adanya afiliasi, sponsor, maupun dukungan resmi dari pemegang hak merek terkait.
+
+---
+
+## Lisensi & Atribusi Pihak Ketiga
 Hak Cipta © 2026 Hizam Nahari (Megapass Intra Solusindo).  
 Didistribusikan secara bebas dan terbuka di bawah [Lisensi MIT](LICENSE).
+
+- **Electron Framework**: Copyright © Electron contributors / OpenJS Foundation (Lisensi MIT)
+- **Chromium Project**: Copyright © The Chromium Authors (Lisensi BSD-style)
+- **Lato Typography**: Copyright © 2010-2015 Lukasz Dziedzic (SIL Open Font License 1.1)
